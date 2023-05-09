@@ -1,0 +1,7 @@
+@import "@/styles/variables.scss";
+@import "@/styles/mixins.scss";
+
+.products {
+  @include max-width;
+  display: flex;
+}
