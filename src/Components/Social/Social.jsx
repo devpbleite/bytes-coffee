@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const Social = () => {
   return (
-    <section className={styles.social}>
+    <section id="social" className={styles.social}>
       <div className={styles.content}>
         <h2 className="title dark-bg">Descubra seu Café favorito</h2>
         <p className="dark-bg">

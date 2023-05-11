@@ -5,7 +5,7 @@ import React from "react";
 
 const Products = () => {
   return (
-    <section className={styles.products}>
+    <section id="products" className={styles.products}>
       <Product
         product="1"
         title="Café Blend"

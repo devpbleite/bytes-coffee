@@ -5,7 +5,7 @@ import React from 'react'
 
 const About = () => {
   return (
-    <section className={styles.about}>
+    <section id='about' className={styles.about}>
       <Image src='/about.png' alt='sbore nós' width={500} height={400} />
       <div className={styles.content}>
         <h2 className='title light-bg'>Conheça mais sobre o Bytes Coffee</h2>

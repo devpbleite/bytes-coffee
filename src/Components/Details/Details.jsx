@@ -20,7 +20,7 @@ const Details = () => {
           <h2>Bytes Coffee</h2>
           <div className={styles.info}>
             <h3>Endereço</h3>
-            <h4>Rua dos Bobos, 000 | Cidade - UF</h4>
+            <h4>Rua do Café, 000 | Cidade - UF</h4>
           </div>
           <div className={styles.info}>
             <h3>Funcionamento</h3>
