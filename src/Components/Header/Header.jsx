@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header className={styles.header}>
       <div className={styles.content}>
-        <h1>Bubble Coffee</h1>
+        <h1>Bytes Coffee</h1>
         <div className={styles.line} />
         <p className='dark-bg'>
           Se você busca um momento de tranquilidade em meio à agitação do dia a
